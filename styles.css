@@ -10,7 +10,8 @@
 
     .container {
       width: 400px;
-      padding: 20px;
+		
+      padding: 40px;
       border: 5px solid #333;
       border-radius: 15px;
       text-align: center;
